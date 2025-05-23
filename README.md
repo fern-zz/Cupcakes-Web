@@ -8,7 +8,7 @@ A fun landing page built as part of the **Global Tech Experience**.
 Some buttons are decorative only. This project is for learning and portfolio display.
 
 ---
-[View Live Site](https://fern-zz.github.io/Cupcakes-Web)
+[View Live Site](https://fern-zz.github.io/Cupcakes-Web/)
 
 ### *A Few Screenshots*
 
