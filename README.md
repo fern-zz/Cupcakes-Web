@@ -18,5 +18,4 @@ Some buttons are decorative only. This project is for learning and portfolio dis
 ![image](https://github.com/user-attachments/assets/c4c9943d-ea85-46e7-b7cc-e4806c61aa64)
 
 ---
-## LinkedIn
-[Fern](www.linkedin.com/in/fernanda-g-050932264)
+### LinkedIn [Fern](www.linkedin.com/in/fernanda-g-050932264)
