@@ -493,7 +493,6 @@ p:last-child {
   padding: 0;
   border: 0;
   display: block;
-  /* vertical-align: middle; */
 }
 .site-header__cart-title {
   margin-right: 3px;
@@ -688,8 +687,6 @@ p:last-child {
   color: #7c3a00 !important;
   border-color: #ffffff !important;
 }
-
-/* Custom Styling by Ray */
 
 @font-face {
   font-family: "Graphik";

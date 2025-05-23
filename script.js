@@ -44,10 +44,9 @@ let featuredFlavors = [
   },
 ];
 
-// find flavor object based on weekday using a loop
+
 function findFlavorObject() {
   let todayCode = new Date().getDay();
-  console.log(`Today's day code is: ${todayCode}`);
   for (let i = 0; i < featuredFlavors.length; i++) {
     if (featuredFlavors[i].dayCode === todayCode) {
       return featuredFlavors[i];
@@ -55,14 +54,11 @@ function findFlavorObject() {
   }
 }
 
-// Dev Shop code
 function FlavorOfTheDayClick() {
-  document.getElementById("featured-cupcake-img").src = findFlavorObject().img;
-  document.getElementById("featured-cupcake-name").innerText = findFlavorObject().name;
+  const flavor = findFlavorObject();
+  if (!flavor) return;
+  
+  document.getElementById("featured-cupcake-img").src = flavor.img;
+  document.getElementById("featured-cupcake-name").innerText = flavor.name;
 }
 
-//let firstDay = new
-//Intl.Locale(navigator.language).weekInfo.firstDay;
-//let weekendDay =  ((7 - firstDay) + new Date().getDay()) % 7;
-//console.log($(firstDay))
-//for(let i = 0; i < weekendDay; i++))
