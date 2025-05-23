@@ -1,9 +1,11 @@
-# Sprinkles Cupcakes Landing Page
+# Cupcakes Landing Page
 
-A fun landing page built as part of the **Global Tech Experience** and as a student project.
+A fun landing page contributed to as part of the **Global Tech Experience** and as a student project.
 
+- Interactive “Flavor of the Day” logic in JavaScript
 - Built with HTML, CSS, and JavaScript
 - Designed and styled for a playful cupcake brand vibe
+- Testing and adjustments for responsiveness and user experience
 
 Some buttons are decorative only. This project is for learning and portfolio display.
 
@@ -18,5 +20,8 @@ Some buttons are decorative only. This project is for learning and portfolio dis
 ![image](https://github.com/user-attachments/assets/c4c9943d-ea85-46e7-b7cc-e4806c61aa64)
 
 ---
+
+Disclaimer
+This project was developed as part of the Global Tech Experience program, in collaboration with Sprinkles Cupcakes. The initial codebase was provided by the program, and I implemented additional features as part of the learning objectives. This project is intended solely for educational and portfolio purposes.
 
 **[Fern]** [LinkedIn](www.linkedin.com/in/fernanda-g-050932264)
