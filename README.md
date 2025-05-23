@@ -1,6 +1,6 @@
 # Sprinkles Cupcakes Landing Page
 
-A fun landing page built as part of the **Global Tech Experience**.
+A fun landing page built as part of the **Global Tech Experience** and as a student project.
 
 - Built with HTML, CSS, and JavaScript
 - Designed and styled for a playful cupcake brand vibe
